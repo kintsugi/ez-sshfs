@@ -1,0 +1,5 @@
+target_host="data_target_host"
+self_dir=data_self_dir
+target_dir=data_target_dir
+self_user="data_self_user"
+target_user="data_target_user"

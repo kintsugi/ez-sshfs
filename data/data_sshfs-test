@@ -1,0 +1,5 @@
+target_host="107.170.248.175"
+self_dir=/Users/terminull/dev/proj/ez-sshfs/test-remote
+target_dir=/root/test
+self_user="terminull"
+target_user="root"
